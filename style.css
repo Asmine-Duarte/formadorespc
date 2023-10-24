@@ -6,3 +6,9 @@ h1{
 p{
     text-align: center;
 }
+
+.texto{
+    text-align: justify;
+    color: orange;
+    font-size: 20px;
+}
